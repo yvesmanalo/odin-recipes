@@ -1,0 +1,25 @@
+div{
+  box-sizing:border-box;
+  width: 350px;
+  margin: auto;
+}
+img{
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  margin-left:75px;
+  margin-right:75px;
+}
+
+h1{
+  text-align: center;
+}
+
+#recipes{
+  text-align: center;
+  display: block;
+  width: 150px;
+  margin-left:100px;
+  margin-right:100px;
+}
+
